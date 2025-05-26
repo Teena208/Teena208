@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I’m currently studying in MSRUAS<br>🌱currently  learning DSA and Java<br>💭not intrested in CS . Its a trap<br>🙋‍♀fun fact: internships nowadays are a lie <br>                      Big nooo
+🏫 I’m currently studying in MSRUAS<br>🌱leart c,python,java,dsa as courses<br>💭not intrested in CS . Its a trap<br>🙋‍♀fun fact: internships nowadays are a lie <br>                      Big nooo
 
 
 # 💻 Tech Stack:
